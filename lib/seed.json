@@ -1,0 +1,16 @@
+[
+  {
+    "group_id" :"CIMCON-DCU-01",
+    "description": "DIMMING-SHOT",
+    "category": "WARN"
+  },
+  {
+    "group_id" :"CIMCON-DCU-01",
+    "description": "LOW-VOLTAGE",
+    "category": "INFO",
+    "options": {
+        "image_url":"http://images.clipartpanda.com/car-clipart-black-and-white-car-images-clip-art-g4f4nawd.png",
+        "spot": "SPOT028"
+    }
+  }
+]

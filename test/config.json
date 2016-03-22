@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "192.168.99.100",
+    "port": "9042",
+    "keyspace": "test"
+  },
+  "group": "CIMCON-DCU-01"
+}
